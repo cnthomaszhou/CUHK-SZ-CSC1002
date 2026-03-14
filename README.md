@@ -1,1 +1,2 @@
-# CUHK-SZ-CSC1002-
+# CUHK-SZ-CSC1002
+  记录招笑学长ZZY的CSC1002通关之路
